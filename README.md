@@ -1,0 +1,2 @@
+# YUSSgame
+EldenRing textstart
